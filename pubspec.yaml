@@ -1,0 +1,8 @@
+name: dartlero_todo
+version: 0.0.1
+author: Pierre-Olivier Nadeau
+description: Model of Todo using Dartlero
+homepage: http://www.pierre-olivier.com
+dependencies:
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
