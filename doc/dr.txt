@@ -1,0 +1,8 @@
+ex04
+
+8/10
+
+(-1) project_model_test ? project ?
+
+(-1) design.code = tasks.length.toString(); ?
+dartling.code est un id
